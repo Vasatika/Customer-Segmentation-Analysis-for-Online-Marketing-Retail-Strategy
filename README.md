@@ -1,4 +1,4 @@
-# Customer-Segmentation-Analysis-for-Online-Marketing-Retail-Strategy
+# Customer Segmentation Analysis for Online Marketing Retail Strategy
 
 # Industry Overview
 
